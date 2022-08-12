@@ -1,5 +1,5 @@
 <h1>My name is Samori Roberts!</h1>
-<p>Welcome to my Page!</p>
+<p>Welcome to my Github Profile!</p>
 
 <div align='center'>
   <img src="res/welcome.gif" />
