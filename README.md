@@ -1,20 +1,9 @@
+<h1>My name is Samori Roberts!</h1>
+<p>Welcome to my Page!</p>
 
-<style>
-h1 {
-  color: blue;
-  font-family: verdana;
-  font-size: 300%;
-}
-p {
-  color: red;
-  font-family: courier;
-  font-size: 160%;
-}
-</style>
-
-<h1>Test test test</h1>
-<p>Another test</p>
-<img src="res/welcome.gif" />
+<div align='center'>
+  <img src="res/welcome.gif" />
+</div> 
 
 
 <!--
