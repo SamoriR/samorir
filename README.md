@@ -14,7 +14,10 @@ p {
 
 <h1>Test test test</h1>
 <p>Another test</p>
-<img src="res/welcome.gif" />
+
+<div align='center'>
+  <img src="res/welcome.gif" />
+</div> 
 
 
 <!--
