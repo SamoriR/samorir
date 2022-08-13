@@ -12,18 +12,8 @@
 
 <br/>
 
-<h2>Full Time Employment</h2>
+<h3>Full Time Employment</h3>
 
-<div style='width: 100%; text-align: center; overflow: hidden;'>
-  <div style='display: flex; overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth; -webkit-overflow-scrolling: touch;'>
-    <div style='scroll-snap-align: start; flex-shrink: 0; width: 400px; height: 300px; margin-right: 50px; border-radius: 10px; background: #eee; transform-origin: center center; transform: scale(1); transition: transform 0.5s; position: relative; display: flex; justify-content: center; align-items: center; font-size: 30px;'>
-    Microsoft
-    </div>
-    <div style='scroll-snap-align: start; flex-shrink: 0; width: 400px; height: 300px; margin-right: 50px; border-radius: 10px; background: #eee; transform-origin: center center; transform: scale(1); transition: transform 0.5s; position: relative; display: flex; justify-content: center; align-items: center; font-size: 30px;'>
-    Codex DF
-    </div>
-  </div>
-</div>
 
 <br/>
 
@@ -36,16 +26,7 @@
 
 <h2>Education</h2>
 
-<div style='width: 100%; text-align: center; overflow: hidden;'>
-  <div style='display: flex; overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth; -webkit-overflow-scrolling: touch;'>
-    <div style='scroll-snap-align: start; flex-shrink: 0; width: 400px; height: 300px; margin-right: 50px; border-radius: 10px; background: #eee; transform-origin: center center; transform: scale(1); transition: transform 0.5s; position: relative; display: flex; justify-content: center; align-items: center; font-size: 30px;'>
-    Morehouse College
-    </div>
-    <div style='scroll-snap-align: start; flex-shrink: 0; width: 400px; height: 300px; margin-right: 50px; border-radius: 10px; background: #eee; transform-origin: center center; transform: scale(1); transition: transform 0.5s; position: relative; display: flex; justify-content: center; align-items: center; font-size: 30px;'>
-    Stanford University
-    </div>
-  </div>
-</div>
+
 
 <br/>
 
