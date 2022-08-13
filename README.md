@@ -2,46 +2,56 @@
   <h1>Samori Roberts's Github Profile</h1>
   <p>Microsoft Alumni | Freelance Front-end Developer</p>
 </div> 
-
-<br/>
-
 <div align='center'>
-  <img style='border-radius: 10px;' src="res/welcome.gif" />
+  <img style='width: 600px; height: auto;' src="res/welcome.gif" />
   <p><em>Pleasure to (digitally) meet you!</em></p>
 </div>
 
 <br/>
 
 <div align='center'>
-  <h3>Full Time Employment</h3>
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=TypeScript&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=React&logoColor=black" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-DD0031?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</div>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<div align='center'>
+  <h1>My Top three things about software engineering</h1>
 </div> 
 
 <br/>
 
 <div align='center'>
-  <img style='border-radius: 10px;' src="res/mahito_beatdown.gif" />
-  <p><em>How I like to handle bugs on the job.</em></p>
+  <img style='width: 600px; height: auto;' src="res/mahito_beatdown.gif" />
+  <p><em>Handling annoying bugs</em></p>
 </div>
 
-<br/>
-
-<h2>Education</h2>
 
 
 
 <br/>
 
 <div align='center'>
-  <img style='border-radius: 10px;' src="res/gojo_juke.gif" />
-  <p><em>Me vs my sleep habit in college</em></p>
+  <img style='width: 600px; height: auto;' src="res/gojo_juke.gif" />
+  <p><em>Design/implementation conversations with experienced engineers</em></p>
 </div>
 
 <br/>
 
-<h2>Freelance Gigs</h2>
-
 <div align='center'>
-  <img style='border-radius: 10px;' src="res/jjk_money.webp" />
-  <p><em>I'll freelance for you... if you pay me.</em></p>
+  <img style='width: 600px; height: auto;' src="res/jjk_money.webp" />
+  <p><em>Being paid large sums of money</em></p>
 </div>
 
