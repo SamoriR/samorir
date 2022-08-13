@@ -1,5 +1,5 @@
 <div align='center'>
-  <h1>Samori Roberts</h1>
+  <h1>Samori Roberts's Github Profile</h1>
   <p>Microsoft Alumni | Freelance Front-end Developer</p>
 </div> 
 
@@ -12,8 +12,9 @@
 
 <br/>
 
-<h3>Full Time Employment</h3>
-
+<div align='center'>
+  <h3>Full Time Employment</h3>
+</div> 
 
 <br/>
 
