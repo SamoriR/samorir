@@ -28,14 +28,14 @@
 <br/>
 
 <div align='center'>
-  <h1>My Top three things about software engineering</h1>
+  <h1>Top Three Favorite Things To Do as a Software Engineer</h1>
 </div> 
 
 <br/>
 
 <div align='center'>
   <img style='width: 600px; height: auto;' src="res/mahito_beatdown.gif" />
-  <p><em>Handling annoying bugs</em></p>
+  <p><em>Handle annoying bugs</em></p>
 </div>
 
 
@@ -45,13 +45,13 @@
 
 <div align='center'>
   <img style='width: 600px; height: auto;' src="res/gojo_juke.gif" />
-  <p><em>Design/implementation conversations with experienced engineers</em></p>
+  <p><em>Have design/implementation conversations with experienced engineers</em></p>
 </div>
 
 <br/>
 
 <div align='center'>
   <img style='width: 600px; height: auto;' src="res/jjk_money.webp" />
-  <p><em>Being paid large sums of money</em></p>
+  <p><em>Be paid large sums of money</em></p>
 </div>
 
