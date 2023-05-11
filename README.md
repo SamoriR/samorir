@@ -1,6 +1,6 @@
 <div align='center'>
   <h1>Samori Roberts's Github Profile</h1>
-  <p>Microsoft Alumni | Freelance Front-end Developer</p>
+  <p>Microsoft Alumni | Full-stack Developer | Quantitative Financial Analyst</p>
 </div> 
 <div align='center'>
   <img style='width: 600px; height: auto;' src="res/welcome.gif" />
